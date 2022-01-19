@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'currency' => '€',
+    'currency' => '$',
 ];
